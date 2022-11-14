@@ -9,5 +9,5 @@ You should be aware that Debian 10 hit its EOL as of 2022-09-10 So this is using
 - Import provided [Debian FS](https://cdn.discordapp.com/attachments/778618184919285810/1024747602811551826/Debian_10_i386_iSH-AOK_B2.tar.bz2) and mount it
 - rm /dev/null && mknod -m 666 /dev/null c 1 3
 - unalias vi  (Just do it, don't ask...)
-- edit /etc/apt/sources.list, comment out updates,backuports,security, they are all expired
+- edit /etc/apt/sources.list, comment out updates,backuports,security, they are all expired and will just trigger errors
 - apt update
