@@ -7,7 +7,7 @@ You should be aware that Debian 10 hit its EOL as of 2022-09-10 So this is using
 
 - Install ish-AOK (TestFlight)
 - Import provided [Debian FS](https://cdn.discordapp.com/attachments/778618184919285810/1024747602811551826/Debian_10_i386_iSH-AOK_B2.tar.bz2) and mount it
-- unalias vi  (Just do it, don't ask...)
-- run dev_fix.sh to fix /dev content
+- run dev_fix.sh to fix /dev content, if you have linked clipboard simplest is to just copy-paste the lines of the script skipping the first line into your iOS device
+- both vi and vim are blocked from running due to an unfortunate alias. If you prefer to use vi, first do nano .bashrc and search for vim, comment that alias out and restart ish-AOK - problem solved!
 - edit /etc/apt/sources.list, comment out updates,backuports,security, they are all expired and will just trigger errors
 - apt update
