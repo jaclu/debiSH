@@ -1,4 +1,3 @@
-apt-utils
 binutils-common
 binutils-i686-linux-gnu
 binutils
@@ -12,6 +11,7 @@ cron
 curl
 debconf-i18n
 debconf
+dirmngr
 dmidecode
 dmsetup
 file
@@ -20,11 +20,17 @@ gcc
 gdbm-l10n
 git-man
 git
+gnupg-l10n
+gnupg-utils
 gnupg2
+gnupg
+gpg-agent
+gpg-wks-client
+gpg-wks-server
 gpg
+gpgconf
+gpgsm
 ifupdown
-initscripts
-insserv
 iproute2
 iptables
 iputils-ping
@@ -33,6 +39,8 @@ isc-dhcp-common
 kmod
 krb5-locales
 less
+linux-libc-dev
+locales
 logrotate
 make
 manpages-dev
@@ -45,12 +53,11 @@ openssl
 patch
 perl-modules-5.28
 perl
-psmisc
+pinentry-curses
 publicsuffix
 python3
 rsyslog
-sensible-utils
-sysvinit-core
+systemctl
 tasksel
 tzdata
 udev
@@ -59,4 +66,3 @@ wget
 whiptail
 xauth
 xxd
-
