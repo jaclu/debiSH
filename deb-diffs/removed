@@ -45,7 +45,6 @@ openssl
 patch
 perl-modules-5.28
 perl
-procps
 psmisc
 publicsuffix
 python3
