@@ -1,0 +1,192 @@
+  389-ds-base,libsystemd0
+  389-ds-base-libs,libsystemd0
+  acpi-fakekey,libsystemd0
+  apt-cacher-ng,libsystemd0 210
+  asterisk,libsystemd0
+  beanstalkd,libsystemd0
+  biboumi,libsystemd0
+  brltty,libsystemd0
+  bsdutils,libsystemd0
+  charon-systemd,libsystemd0
+  chkservice,libsystemd0 221
+  cinnamon-session,libsystemd0
+  cinnamon-settings-daemon,libsystemd0
+  clamav-daemon,libsystemd0
+  cockpit-bridge,libsystemd0
+  cockpit-pcp,libsystemd0
+  cockpit-ws,libsystemd0
+  colord,libsystemd0
+  conntrackd,libsystemd0 227
+  corosync,libsystemd0
+  corosync-notifyd,libsystemd0
+  corosync-qdevice,libsystemd0
+  corosync-qnetd,libsystemd0
+  cubemap,libsystemd0
+  cups-daemon,libsystemd0
+  dbus,libsystemd0
+  dbus-tests,libsystemd0
+  dlm-controld,libsystemd0
+  dlt-tools,libsystemd0
+  dnsdist,libsystemd0
+  docker.io,libsystemd0
+  emacs-gtk,libsystemd0
+  emacs-lucid,libsystemd0
+  emacs-nox,libsystemd0
+  erlang-base,libsystemd0
+  erlang-base-hipe,libsystemd0
+  fcgiwrap,libsystemd0
+  flatpak,libsystemd0
+  flatpak-tests,libsystemd0
+  frr,libsystemd0
+  frr-rpki-rtrlib,libsystemd0
+  frr-snmp,libsystemd0
+  gdm3,libsystemd0
+  gnome-desktop-testing,libsystemd0
+  gnome-disk-utility,libsystemd0 209
+  gnome-logs,libsystemd0
+  gnome-panel,libsystemd0 230
+  gnome-screensaver,libsystemd0
+  gnome-session-bin,libsystemd0 209
+  gnome-shell,libsystemd0
+  gnome-system-monitor,libsystemd0
+  guestfsd,libsystemd0
+  gvfs-daemons,libsystemd0
+  haproxy,libsystemd0
+  hddemux,libsystemd0
+  ibacm,libsystemd0
+  icinga2-bin,libsystemd0
+  inn,libsystemd0
+  inputattach,libsystemd0
+  iodine,libsystemd0
+  irqbalance,libsystemd0
+  kamailio-systemd-modules,libsystemd0
+  kde-config-systemd,libsystemd0
+  knot,libsystemd0
+  knot-resolver,libsystemd0 227
+  knxd,libsystemd0 228
+  ksystemlog,libsystemd0
+  lbcd,libsystemd0
+  libaccountsservice0,libsystemd0 209
+  libapt-pkg5.0,libsystemd0 221
+  libczmq4,libsystemd0
+  libdbus-1-3,libsystemd0
+  libecore-con1,libsystemd0
+  libecore-x1,libsystemd0
+  libecore1,libsystemd0
+  libeina1a,libsystemd0
+  libelput1,libsystemd0
+  libevas1,libsystemd0
+  libevas1-engines-x,libsystemd0
+  libfcitx5utils1,libsystemd0 222
+  libflatpak0,libsystemd0
+  libgdm1,libsystemd0
+  libguestfs0,libsystemd0
+  libjavascriptcoregtk-4.0-18,libsystemd0
+  libjavascriptcoregtk-4.0-bin,libsystemd0
+  liblvm2cmd2.03,libsystemd0 222
+  libmariadbd19,libsystemd0
+  libmutter-3-0,libsystemd0 213
+  libostree-1-1,libsystemd0
+  libpolkit-backend-1-0,libsystemd0 213
+  libpolkit-gobject-1-0,libsystemd0 213
+  libprocps7,libsystemd0 209
+  libpulse0,libsystemd0
+  libreswan,libsystemd0
+  libstrongswan,libsystemd0 227
+  libsystemd-dev,libsystemd0 241-7~deb10u8
+  libukwm-1-0,libsystemd0 212
+  libwebkit2gtk-4.0-37,libsystemd0
+  libweston-5-0,libsystemd0
+  libwinpr2-2,libsystemd0
+  libyder2.0,libsystemd0
+  libzorpll-7.0-1,libsystemd0
+  light-locker,libsystemd0
+  lirc,libsystemd0
+  lizardfs-chunkserver,libsystemd0
+  lizardfs-master,libsystemd0
+  lizardfs-metalogger,libsystemd0
+  lua-systemd,libsystemd0
+  lvm2,libsystemd0 222
+  lvm2-lockd,libsystemd0
+  mariadb-backup,libsystemd0
+  mariadb-client-core-10.3,libsystemd0
+  mariadb-server-core-10.3,libsystemd0
+  mariadb-test,libsystemd0
+  mate-screensaver,libsystemd0
+  mate-session-manager,libsystemd0
+  mate-system-monitor,libsystemd0
+  modemmanager,libsystemd0 209
+  monopd,libsystemd0
+  mosquitto,libsystemd0
+  mpd,libsystemd0
+  multipath-tools,libsystemd0
+  network-manager,libsystemd0 221
+  nghttp2-client,libsystemd0
+  nghttp2-proxy,libsystemd0
+  nghttp2-server,libsystemd0
+  nis,libsystemd0
+  nsd,libsystemd0
+  ocserv,libsystemd0
+  onak,libsystemd0 214
+  openbsd-inetd,libsystemd0
+  openfortivpn,libsystemd0
+  openssh-server,libsystemd0
+  openvpn,libsystemd0
+  packagekit,libsystemd0 214
+  pcscd,libsystemd0
+  pdns-recursor,libsystemd0
+  pdns-server,libsystemd0
+  php7.3-fpm,libsystemd0
+  physlock,libsystemd0
+  postgresql-11,libsystemd0
+  pulseaudio,libsystemd0
+  python-systemd,libsystemd0 233
+  python3-systemd,libsystemd0 233
+  ratbagd,libsystemd0 227
+  rdma-core,libsystemd0
+  realmd,libsystemd0
+  remctl-server,libsystemd0
+  rpcbind,libsystemd0
+  rsyslog,libsystemd0 209
+  samba-libs,libsystemd0
+  sane-utils,libsystemd0
+  sddm,libsystemd0
+  shibboleth-sp-utils,libsystemd0
+  spice-vdagent,libsystemd0
+  sssd-ad-common,libsystemd0
+  sssd-common,libsystemd0
+  sssd-dbus,libsystemd0
+  sssd-kcm,libsystemd0
+  sssd-krb5-common,libsystemd0
+  stunnel4,libsystemd0
+  syslog-ng-core,libsystemd0 209
+  syslog-ng-mod-examples,libsystemd0 209
+  syslog-ng-mod-journal,libsystemd0 209
+  sysprof,libsystemd0 221
+  systemd,libsystemd0 241-7~deb10u8
+  systemd-bootchart,libsystemd0 221
+  systemd-tests,libsystemd0 241-7~deb10u8
+  tgt,libsystemd0
+  tigervnc-standalone-server,libsystemd0
+  tor,libsystemd0
+  transmission-daemon,libsystemd0
+  triggerhappy,libsystemd0
+  udisks2,libsystemd0 209
+  ukui-session-manager,libsystemd0
+  unbound,libsystemd0
+  util-linux,libsystemd0
+  uuid-runtime,libsystemd0
+  uwsgi-core,libsystemd0
+  vdr,libsystemd0
+  vlc-plugin-base,libsystemd0
+  webkit2gtk-driver,libsystemd0
+  weston,libsystemd0
+  xdmx,libsystemd0
+  xnest,libsystemd0
+  xorp,libsystemd0
+  xpra,libsystemd0
+  xserver-xephyr,libsystemd0
+  xserver-xorg-core,libsystemd0
+  xvfb,libsystemd0
+  xwayland,libsystemd0
+  yaskkserv,libsystemd0

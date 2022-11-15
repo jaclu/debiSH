@@ -1,0 +1,7 @@
+>binutils-common
+>binutils
+>bsdmainutils
+>cron
+>initscripts
+>openrc
+>(procps)
