@@ -3,6 +3,7 @@ Debian (10) on iSH-AOK
 
 You should be aware that Debian 10 hit its EOL as of 2022-09-10 So this is using an unsupported version, but since it is the last Debian built for x86-32, that is all we have for now
 
+
 ## Procedure
 
 - Install ish-AOK (TestFlight)
@@ -11,3 +12,10 @@ You should be aware that Debian 10 hit its EOL as of 2022-09-10 So this is using
 - vi is blocked from running due to an unfortunate alias. If you prefer to use vi, first do nano .bashrc and search for vim, comment that alias out and restart ish-AOK - problem solved!
 - apt update
 - apt upgrade
+
+## FS Sizes
+
+The reduced FS will be restored upon install
+
+- 270M Debian_10_i386_iSH-AOK_B2.tar.bz2
+- 57M  Small6.tar.bz2
