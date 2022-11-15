@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm /var/cache/apt -rf
+rm /var/lib/apt -rf
+

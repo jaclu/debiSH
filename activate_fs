@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/root/dev_fix.sh
+
+apt update && apt upgrade
