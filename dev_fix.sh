@@ -1,5 +1,13 @@
 #!/bin/sh
 
+if [ "$(uname)" = "Darwin" ]; then
+    echo "Don't run this on MacOS!!"
+    exit 1
+fi
+
+
+# parenthesis, so this can be copy pasted into a single action
+
 (
 rm -f /dev/null      && mknod -m 666 /dev/null       c   1 3
 rm -f /dev/zero      && mknod -m 666 /dev/zero       c   1 5
