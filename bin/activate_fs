@@ -1,5 +1,7 @@
 #!/bin/sh
 
-/root/dev_fix.sh
+script_dir="$(dirname "$0")"
+
+$script_dir/dev_fix.sh
 
 apt update && apt upgrade
