@@ -11,4 +11,4 @@ apt list --installed | cut -d/ -f1
 comm -23 full reduced
 
 ###  Restore FS
-xargs apt-get -y install < removed2
+xargs apt-get -y install < removed
