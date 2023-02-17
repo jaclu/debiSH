@@ -1,7 +1,7 @@
 # Obsolete!
 
 Be aware that this was an early experiment, and is badly out of date.
-I continued my work adopting Debian for iSH-AOK within [AOK-Filesystem-Tools](https://github.com/emkey1/AOK-Filesystem-Tools) where I now spend my time improving on Debian usage. I recently added Devuan, another Debian based distro to the list
+I continued my work adopting Debian for iSH-AOK within [AOK-Filesystem-Tools](https://github.com/jaclu/AOK-Filesystem-Tools), my fork, where I now spend my time improving on Debian usage. I recently added Devuan, another Debian based distro to the list
 of File systems supported.
 
 # debiSH
