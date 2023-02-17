@@ -1,3 +1,9 @@
+# Obsolete!
+
+Be aware that this was an early experiment, and is badly out of date.
+I continued my work adopting Debian for iSH-AOK within [AOK-Filesystem-Tools](https://github.com/emkey1/AOK-Filesystem-Tools) where I now spend my time improving on Debian usage. I recently added Devuan, another Debian based distro to the list
+of File systems supported.
+
 # debiSH
 Debian (10) on iSH-AOK
 
@@ -24,4 +30,3 @@ The reduced FS will be restored upon install
 
 - 270M Debian_10_i386_iSH-AOK_B2.tar.bz2
 - 57M  Small6.tar.bz2
-
